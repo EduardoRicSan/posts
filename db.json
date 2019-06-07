@@ -1,5 +1,4 @@
-{
- "posts": [
+"posts": [
       {
       "id": 1,
       "title": "Tour de francia",
@@ -24,6 +23,5 @@
       "id": 5,
       "title": "LA ROMPE PIERNAS QUERÉTARO",
       "desc": "Bike´s Time en todo el tiempo de vida de este evento en Jalpan Querétaro, sigue y seguirá presente. 70k + 133k "
-     }, 
-  ],
-}
+     }
+  ]
