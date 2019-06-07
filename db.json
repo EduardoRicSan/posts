@@ -1,25 +1,11 @@
-      {
+{
+  "posts": [
+    {
       "id": 1,
-      "title": "Tour de francia",
-      "desc": "Bike´s Time ha logrado llegar al mayor evento de ciclistas en el mundo, pues en el 2018 fue uno de los patrocionadores oficiales de tan prestigioso evento"
-      },
-     {
-      "id": 2,
-      "title": "VESTA CHALLENGE",
-      "desc": "Seremos este 2019 el principal organizador de una de las mejores competencias de ciclismo de Querétaro. Gran Fondo 102k + medio fondo 52k"   
-     },
-     {
-      "id": 3,
-      "title": "L' ETAPE CIUDAD DE MEXICO BY LE TOUR DE FRANCE",
-      "desc": "Bike´s Time ha logrado llegar al mayor evento de ciclistas en el mundo,en este 2019 fue uno de los patrocionadores oficiales de tan prestigioso evento"
-     },
-     {
-      "id": 4,
-      "title": "UCI SAN LUIS POTOSÍ",
-      "desc": "Sin duda alguna el 2019 será el mejor año para esta carrera, pues Bike's Time participará como patrocinador oficial por primera vez"
-     },
-     {
-      "id": 5,
-      "title": "LA ROMPE PIERNAS QUERÉTARO",
-      "desc": "Bike´s Time en todo el tiempo de vida de este evento en Jalpan Querétaro, sigue y seguirá presente. 70k + 133k "
-     }
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
